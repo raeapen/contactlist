@@ -1,0 +1,26 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "a simple mean contactlist application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whsreapen/MeanApp.git"
+  },
+  "author": "whsreapen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whsreapen/MeanApp/issues"
+  },
+  "homepage": "https://github.com/whsreapen/MeanApp#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.10.8",
+    "nodemon": "^1.11.0"
+  }
+}
