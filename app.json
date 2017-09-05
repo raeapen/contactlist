@@ -1,0 +1,17 @@
+{
+  "name": "contactlist",
+  "description": "A MEAN contact list app ",
+  "scripts": {
+  },
+  "env": {
+    "raeap": "apps"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
